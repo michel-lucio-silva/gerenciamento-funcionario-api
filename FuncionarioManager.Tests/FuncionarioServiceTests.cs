@@ -20,7 +20,6 @@ namespace FuncionarioManager.Tests
         [Fact]
         public async Task CriarFuncionario_Valido_CriaFuncionario()
         {
-            // Arrange
             var funcionario = new Funcionario
             {
                 Nome = "Admin",

@@ -31,7 +31,7 @@ namespace FuncionarioManager.API.Services
                 {
                     new Claim(ClaimTypes.NameIdentifier, funcionario.Id.ToString()),
                     new Claim(ClaimTypes.Name, funcionario.Email),
-                    new Claim(ClaimTypes.Role, funcionario.Role.ToString()) // Adicionando a role
+                    new Claim(ClaimTypes.Role, funcionario.Role.ToString())
                 }),
                 Expires = DateTime.UtcNow.AddHours(1),
                 Issuer = _configuration["Jwt:Issuer"],

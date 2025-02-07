@@ -40,21 +40,18 @@ namespace FuncionarioManager.API.Services
                 throw new UnauthorizedAccessException("Você não tem permissão para adicionar este tipo de funcionário.");
             }
 
-            // Validação de idade
             if (DateTime.UtcNow.Year - funcionario.DataNascimento.Year < 18)
             {
                 throw new Exception("Funcionário deve ter pelo menos 18 anos.");
             }
 
-            // Validação de unicidade do documento
             var existeFuncionario = await _repository.GetByNumeroDocumentoAsync(funcionario.NumeroDocumento);
             if (existeFuncionario != null)
             {
                 throw new Exception("Número do documento já está em uso.");
             }
 
-            // Hash da senha
-            if (string.IsNullOrEmpty(funcionario.Senha))
+             if (string.IsNullOrEmpty(funcionario.Senha))
             {
                 throw new ArgumentNullException(nameof(funcionario.Senha), "A senha não pode ser nula.");
             }
@@ -75,7 +72,6 @@ namespace FuncionarioManager.API.Services
                 throw new UnauthorizedAccessException("Você não tem permissão para atualizar este tipo de funcionário.");
             }
 
-            // Validação de unicidade do documento
             var existeFuncionario = await _repository.GetByNumeroDocumentoAsync(funcionario.NumeroDocumento);
             if (existeFuncionario != null)
             {
@@ -87,20 +83,17 @@ namespace FuncionarioManager.API.Services
                 throw new Exception("Dados não recebidos.");
             }
 
-            // Validação de idade
             if (DateTime.UtcNow.Year - funcionario.DataNascimento.Year < 18)
             {
                 throw new Exception("Funcionário deve ter pelo menos 18 anos.");
             }
 
-            // Verifica se o funcionário existe
             var existingFuncionario = await _repository.GetByIdAsync(id);
             if (existingFuncionario == null)
             {
                 throw new Exception("Funcionário não encontrado.");
             }
 
-            // Atualiza o objeto existente
             existingFuncionario.Nome = funcionario.Nome;
             existingFuncionario.Sobrenome = funcionario.Sobrenome;
             existingFuncionario.Email = funcionario.Email;
@@ -115,7 +108,6 @@ namespace FuncionarioManager.API.Services
 
         public async Task DeleteFuncionario(int id)
         {
-            // Verifica se o funcionário existe
             var existingFuncionario = await _repository.GetByIdAsync(id);
             if (existingFuncionario == null)
             {

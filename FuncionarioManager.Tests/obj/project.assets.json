@@ -2622,11 +2622,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ambev\\FuncionarioManager.API\\FuncionarioManager.Tests\\GerenciamentoFuncionario.Tests.csproj",
+      "projectUniqueName": "C:\\testes\\gerenciamento-funcionario-api\\FuncionarioManager.Tests\\GerenciamentoFuncionario.Tests.csproj",
       "projectName": "GerenciamentoFuncionario.Tests",
-      "projectPath": "D:\\Ambev\\FuncionarioManager.API\\FuncionarioManager.Tests\\GerenciamentoFuncionario.Tests.csproj",
+      "projectPath": "C:\\testes\\gerenciamento-funcionario-api\\FuncionarioManager.Tests\\GerenciamentoFuncionario.Tests.csproj",
       "packagesPath": "C:\\Users\\Michel\\.nuget\\packages\\",
-      "outputPath": "D:\\Ambev\\FuncionarioManager.API\\FuncionarioManager.Tests\\obj\\",
+      "outputPath": "C:\\testes\\gerenciamento-funcionario-api\\FuncionarioManager.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2648,8 +2648,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Ambev\\FuncionarioManager.API\\GerenciamentoFuncionario.API.csproj": {
-              "projectPath": "D:\\Ambev\\FuncionarioManager.API\\GerenciamentoFuncionario.API.csproj"
+            "C:\\testes\\gerenciamento-funcionario-api\\GerenciamentoFuncionario.API.csproj": {
+              "projectPath": "C:\\testes\\gerenciamento-funcionario-api\\GerenciamentoFuncionario.API.csproj"
             }
           }
         }

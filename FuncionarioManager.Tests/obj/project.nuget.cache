@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cf/mPEA5qI0=",
+  "dgSpecHash": "SbEFOM1wK5c=",
   "success": true,
-  "projectFilePath": "D:\\Ambev\\FuncionarioManager.API\\FuncionarioManager.Tests\\GerenciamentoFuncionario.Tests.csproj",
+  "projectFilePath": "C:\\testes\\gerenciamento-funcionario-api\\FuncionarioManager.Tests\\GerenciamentoFuncionario.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Michel\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Michel\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

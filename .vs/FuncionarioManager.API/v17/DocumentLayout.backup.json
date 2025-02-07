@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ambev\\FuncionarioManager.API\\",
+  "WorkspaceRootPath": "C:\\testes\\gerenciamento-funcionario-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|d:\\ambev\\funcionariomanager.api\\gerenciamentofuncionario.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|c:\\testes\\gerenciamento-funcionario-api\\gerenciamentofuncionario.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|solutionrelative:gerenciamentofuncionario.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|d:\\ambev\\funcionariomanager.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|c:\\testes\\gerenciamento-funcionario-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|d:\\ambev\\funcionariomanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|c:\\testes\\gerenciamento-funcionario-api\\contexts\\rolecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|solutionrelative:contexts\\rolecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|d:\\ambev\\funcionariomanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|c:\\testes\\gerenciamento-funcionario-api\\dtos\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|solutionrelative:dtos\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|d:\\ambev\\funcionariomanager.api\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|solutionrelative:controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|c:\\testes\\gerenciamento-funcionario-api\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|solutionrelative:models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|d:\\ambev\\funcionariomanager.api\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|solutionrelative:models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|c:\\testes\\gerenciamento-funcionario-api\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|solutionrelative:controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|d:\\ambev\\funcionariomanager.api\\dtos\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|solutionrelative:dtos\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|c:\\testes\\gerenciamento-funcionario-api\\services\\funcionarioservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|solutionrelative:services\\funcionarioservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|d:\\ambev\\funcionariomanager.api\\contexts\\rolecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|solutionrelative:contexts\\rolecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|c:\\testes\\gerenciamento-funcionario-api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|d:\\ambev\\funcionariomanager.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|c:\\testes\\gerenciamento-funcionario-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D003747-DB36-48DC-A526-EDFAB390C5B5}|FuncionarioManager.Tests\\FuncionarioManager.Tests.csproj|d:\\ambev\\funcionariomanager.api\\funcionariomanager.tests\\funcionarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D003747-DB36-48DC-A526-EDFAB390C5B5}|FuncionarioManager.Tests\\FuncionarioManager.Tests.csproj|solutionrelative:funcionariomanager.tests\\funcionarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|c:\\testes\\gerenciamento-funcionario-api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|GerenciamentoFuncionario.API.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|d:\\ambev\\funcionariomanager.api\\services\\funcionarioservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A6883E7-AB48-4674-934C-3D7D33E507D4}|FuncionarioManager.API.csproj|solutionrelative:services\\funcionarioservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D003747-DB36-48DC-A526-EDFAB390C5B5}|FuncionarioManager.Tests\\GerenciamentoFuncionario.Tests.csproj|c:\\testes\\gerenciamento-funcionario-api\\funcionariomanager.tests\\funcionarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D003747-DB36-48DC-A526-EDFAB390C5B5}|FuncionarioManager.Tests\\GerenciamentoFuncionario.Tests.csproj|solutionrelative:funcionariomanager.tests\\funcionarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GerenciamentoFuncionario.API",
-              "DocumentMoniker": "D:\\Ambev\\FuncionarioManager.API\\GerenciamentoFuncionario.API.csproj",
+              "DocumentMoniker": "C:\\testes\\gerenciamento-funcionario-api\\GerenciamentoFuncionario.API.csproj",
               "RelativeDocumentMoniker": "GerenciamentoFuncionario.API.csproj",
-              "ToolTip": "D:\\Ambev\\FuncionarioManager.API\\GerenciamentoFuncionario.API.csproj",
+              "ToolTip": "C:\\testes\\gerenciamento-funcionario-api\\GerenciamentoFuncionario.API.csproj",
               "RelativeToolTip": "GerenciamentoFuncionario.API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-07T12:09:47.096Z",
@@ -70,133 +70,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Ambev\\FuncionarioManager.API\\appsettings.json",
+              "DocumentMoniker": "C:\\testes\\gerenciamento-funcionario-api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Ambev\\FuncionarioManager.API\\appsettings.json",
+              "ToolTip": "C:\\testes\\gerenciamento-funcionario-api\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T22:45:07.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T22:45:07.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "RoleContext.cs",
-              "DocumentMoniker": "D:\\Ambev\\FuncionarioManager.API\\Contexts\\RoleContext.cs",
+              "DocumentMoniker": "C:\\testes\\gerenciamento-funcionario-api\\Contexts\\RoleContext.cs",
               "RelativeDocumentMoniker": "Contexts\\RoleContext.cs",
-              "ToolTip": "D:\\Ambev\\FuncionarioManager.API\\Contexts\\RoleContext.cs",
+              "ToolTip": "C:\\testes\\gerenciamento-funcionario-api\\Contexts\\RoleContext.cs",
               "RelativeToolTip": "Contexts\\RoleContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T22:45:00.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FuncionarioDTO.cs",
-              "DocumentMoniker": "D:\\Ambev\\FuncionarioManager.API\\DTOs\\FuncionarioDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\FuncionarioDTO.cs",
-              "ToolTip": "D:\\Ambev\\FuncionarioManager.API\\DTOs\\FuncionarioDTO.cs",
-              "RelativeToolTip": "DTOs\\FuncionarioDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T16:49:16.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "D:\\Ambev\\FuncionarioManager.API\\Models\\Funcionario.cs",
-              "RelativeDocumentMoniker": "Models\\Funcionario.cs",
-              "ToolTip": "D:\\Ambev\\FuncionarioManager.API\\Models\\Funcionario.cs",
-              "RelativeToolTip": "Models\\Funcionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T16:43:31.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FuncionariosController.cs",
-              "DocumentMoniker": "D:\\Ambev\\FuncionarioManager.API\\Controllers\\FuncionariosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FuncionariosController.cs",
-              "ToolTip": "D:\\Ambev\\FuncionarioManager.API\\Controllers\\FuncionariosController.cs",
-              "RelativeToolTip": "Controllers\\FuncionariosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T16:32:29.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FuncionarioService .cs",
-              "DocumentMoniker": "D:\\Ambev\\FuncionarioManager.API\\Services\\FuncionarioService .cs",
-              "RelativeDocumentMoniker": "Services\\FuncionarioService .cs",
-              "ToolTip": "D:\\Ambev\\FuncionarioManager.API\\Services\\FuncionarioService .cs",
-              "RelativeToolTip": "Services\\FuncionarioService .cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T16:32:56.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\Ambev\\FuncionarioManager.API\\Startup.cs",
-              "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "D:\\Ambev\\FuncionarioManager.API\\Startup.cs",
-              "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAmwEkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T16:31:37.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T22:45:00.029Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ambev\\FuncionarioManager.API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Ambev\\FuncionarioManager.API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAIAAAAAAAAAA==",
+              "Title": "FuncionarioDTO.cs",
+              "DocumentMoniker": "C:\\testes\\gerenciamento-funcionario-api\\DTOs\\FuncionarioDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\FuncionarioDTO.cs",
+              "ToolTip": "C:\\testes\\gerenciamento-funcionario-api\\DTOs\\FuncionarioDTO.cs",
+              "RelativeToolTip": "DTOs\\FuncionarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T19:03:05.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T16:49:16.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\testes\\gerenciamento-funcionario-api\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Models\\Funcionario.cs",
+              "ToolTip": "C:\\testes\\gerenciamento-funcionario-api\\Models\\Funcionario.cs",
+              "RelativeToolTip": "Models\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:43:31.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FuncionariosController.cs",
+              "DocumentMoniker": "C:\\testes\\gerenciamento-funcionario-api\\Controllers\\FuncionariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FuncionariosController.cs",
+              "ToolTip": "C:\\testes\\gerenciamento-funcionario-api\\Controllers\\FuncionariosController.cs",
+              "RelativeToolTip": "Controllers\\FuncionariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:32:29.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FuncionarioService .cs",
+              "DocumentMoniker": "C:\\testes\\gerenciamento-funcionario-api\\Services\\FuncionarioService .cs",
+              "RelativeDocumentMoniker": "Services\\FuncionarioService .cs",
+              "ToolTip": "C:\\testes\\gerenciamento-funcionario-api\\Services\\FuncionarioService .cs",
+              "RelativeToolTip": "Services\\FuncionarioService .cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:32:56.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\testes\\gerenciamento-funcionario-api\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\testes\\gerenciamento-funcionario-api\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:31:37.518Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Ambev\\FuncionarioManager.API\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Ambev\\FuncionarioManager.API\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\testes\\gerenciamento-funcionario-api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\testes\\gerenciamento-funcionario-api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T22:45:53.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T19:03:05.034Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\testes\\gerenciamento-funcionario-api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\testes\\gerenciamento-funcionario-api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:45:53.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "FuncionarioServiceTests.cs",
-              "DocumentMoniker": "D:\\Ambev\\FuncionarioManager.API\\FuncionarioManager.Tests\\FuncionarioServiceTests.cs",
+              "DocumentMoniker": "C:\\testes\\gerenciamento-funcionario-api\\FuncionarioManager.Tests\\FuncionarioServiceTests.cs",
               "RelativeDocumentMoniker": "FuncionarioManager.Tests\\FuncionarioServiceTests.cs",
-              "ToolTip": "D:\\Ambev\\FuncionarioManager.API\\FuncionarioManager.Tests\\FuncionarioServiceTests.cs",
+              "ToolTip": "C:\\testes\\gerenciamento-funcionario-api\\FuncionarioManager.Tests\\FuncionarioServiceTests.cs",
               "RelativeToolTip": "FuncionarioManager.Tests\\FuncionarioServiceTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T20:12:50.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T20:12:50.943Z"
             }
           ]
         }

@@ -37,8 +37,7 @@ namespace FuncionarioManager.API.Contexts
 
         public bool CanUpdate(Role role)
         {
-            // Defina a lógica para atualização, se necessário
-            return _roleStrategy.CanAdd(role); // Pode ser a mesma lógica ou diferente
+            return _roleStrategy.CanAdd(role); 
         }
     }
 }

@@ -27,30 +27,23 @@ namespace FuncionarioManager.Tests
         [Fact]
         public async Task AuthenticateAsync_ValidCredentials_ReturnsToken()
         {
-            // Arrange
             var funcionario = new Funcionario { Id = 1, Email = "admin@example.com", Senha = "senhaSegura" };
             _mockRepository.Setup(repo => repo.GetByEmailAndPasswordAsync("admin@example.com", "senhaSegura"))
                            .ReturnsAsync(funcionario);
 
-            // Act
             var token = await _authService.AuthenticateAsync("admin@example.com", "senhaSegura");
 
-            // Assert
             Assert.NotNull(token);
-            // Adicione mais verificações conforme necessário
         }
 
         [Fact]
         public async Task AuthenticateAsync_InvalidCredentials_ReturnsNull()
         {
-            // Arrange
             _mockRepository.Setup(repo => repo.GetByEmailAndPasswordAsync("admin@example.com", "senhaErrada"))
                            .ReturnsAsync((Funcionario)null);
 
-            // Act
             var token = await _authService.AuthenticateAsync("admin@example.com", "senhaErrada");
 
-            // Assert
             Assert.Null(token);
         }
     }

@@ -16,11 +16,9 @@ public class Program
 
     private static async Task SeedDatabase(ApplicationDbContext context)
     {
-        // Verifique se o banco de dados já foi criado
         await context.Database.EnsureCreatedAsync();
 
-        // Adicione dados iniciais se necessário
-        if (!context.Funcionarios.Any())
+       if (!context.Funcionarios.Any())
         {
             context.Funcionarios.Add(new Funcionario
             {
