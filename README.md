@@ -22,7 +22,7 @@ Essa é uma API de CRUD (Create, Read, Update, Delete) para gerenciamento de fun
 
 ## Instalação
 
-1.  Clone o repositório: `git clone https://github.com/seu-repositorio/gerenciamento-funcionarios.git`
+1.  Clone o repositório: `git clone https://github.com/michel-lucio-silva/gerenciamento-funcionario-api.git`
 2.  Instale as dependências: `dotnet restore`
 3.  Configure a conexão com o banco de dados em `appsettings.json`
 4.  Execute a aplicação: `dotnet run`
