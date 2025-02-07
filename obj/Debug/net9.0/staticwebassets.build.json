@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KVk8c7g7ZIGKSvtObvdzeYkvpylkYj79ESWk9I6R8gE=",
+  "Source": "GerenciamentoFuncionario.API",
+  "BasePath": "_content/GerenciamentoFuncionario.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

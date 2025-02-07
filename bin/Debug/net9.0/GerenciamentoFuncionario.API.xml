@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GerenciamentoFuncionario.API</name>
+    </assembly>
+    <members>
+        <member name="M:FuncionarioManager.API.Controllers.FuncionarioController.CreateFuncionario(FuncionarioManager.API.Models.Funcionario)">
+            <summary>
+            Cria um novo funcionário.
+            </summary>
+            <param name="funcionario">Os dados do funcionário a serem criados.</param>
+            <returns>O funcionário criado.</returns>
+            <response code="201">Retorna o funcionário criado.</response>
+            <response code="400">Se houver um erro ao criar o funcionário.</response>
+        </member>
+        <member name="M:FuncionarioManager.API.Controllers.FuncionarioController.GetFuncionarioById(System.Int32)">
+            <summary>
+            Obtém um funcionário pelo ID.
+            </summary>
+            <param name="id">O ID do funcionário.</param>
+            <returns>O funcionário correspondente ao ID.</returns>
+            <response code="200">Retorna o funcionário encontrado.</response>
+            <response code="404">Se o funcionário não for encontrado.</response>
+        </member>
+        <member name="M:FuncionarioManager.API.Controllers.FuncionarioController.GetAllFuncionarios">
+            <summary>
+            Obtém todos os funcionários.
+            </summary>
+            <returns>Uma lista de todos os funcionários.</returns>
+            <response code="200">Retorna a lista de funcionários.</response>
+        </member>
+        <member name="M:FuncionarioManager.API.Controllers.FuncionarioController.UpdateFuncionario(System.Int32,FuncionarioManager.API.DTOs.FuncionarioDTO)">
+            <summary>
+            Atualiza um funcionário existente.
+            </summary>
+            <param name="id">O ID do funcionário a ser atualizado.</param>
+            <param name="funcionario">Os novos dados do funcionário.</param>
+            <returns>Um status de sucesso.</returns>
+            <response code="204">Se a atualização for bem-sucedida.</response>
+            <response code="400">Se houver um erro ao atualizar o funcionário.</response>
+        </member>
+        <member name="M:FuncionarioManager.API.Controllers.FuncionarioController.DeleteFuncionario(System.Int32)">
+            <summary>
+            Remove um funcionário pelo ID.
+            </summary>
+            <param name="id">O ID do funcionário a ser removido.</param>
+            <returns>Um status de sucesso.</returns>
+            <response code="204">Se a remoção for bem-sucedida.</response>
+            <response code="404">Se o funcionário não for encontrado.</response>
+        </member>
+        <member name="M:FuncionarioManager.API.Controllers.FuncionarioController.GetLiderAndDiretor">
+            <summary>
+            Obtém todos os líderes e diretores.
+            </summary>
+            <returns>Uma lista de líderes e diretores.</returns>
+            <response code="200">Retorna a lista de líderes e diretores.</response>
+        </member>
+    </members>
+</doc>
